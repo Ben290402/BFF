@@ -1,0 +1,18 @@
+
+Trellix - FICHIER INTERDIT DÉTECTÉ/PROHIBITED FILE DETECTED
+
+Un fichier a été bloqué par une règle de filtrage de fichiers / A file was blocked by a file filtering rule.
+Le message a donc été délivré sans cette pièce-jointe / The message was therefore delivered without this attachment.
+
+Pour en connaître la nature, vous pouvez contacter l'émetteur de ce message / To find out what it is, you can contact the sender of this message
+
+Rule: 'Pieces Jointes Interdites - Extensions'
+Context: 'businessSimulator.js'
+Disallowed due to filename
+
+
+
+For further information, contact your system administrator. 
+Copyright (C)2023 Musarubra US LLC.
+All Rights Reserved.
+http://www.trellix.com
